@@ -1,0 +1,89 @@
+about,stars,watching,forks
+"Scrapy, a fast high-level web crawling & scraping framework for Python.",443,18,97
+开始Scrapy实战如：存数据库、下载文件、爬京东、淘宝、Anti-Anti-Spider……,370,19,240
+Random proxy middleware for Scrapy,16,55,392
+豆瓣电影/豆瓣读书 Scarpy 爬虫,553,22,175
+Scrapy+Splash for JavaScript integration,28,123,429
+"Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. DEMO",26,74,482
+Multifarious Scrapy examples. Spiders for alexa / amazon / douban / douyu / github / linkedin etc.,29,236,1
+Visual scraping for Scrapy,86,505,14
+Scrapy the detail and lowest price of amazon best seller product by python spider,258,37,121
+use multiple proxies with Scrapy,596,19,139
+A service daemon to run Scrapy spiders,25,87,544
+Redis-based components for Scrapy.,51,280,16
+这是一个作者毕业设计的爬虫，爬取58同城、赶集网、链家、安居客、我爱我家网站的房价交易数据。,281,18,120
+Command line client for Scrapyd server,665,40,136
+Scrapy project to scrape public web directories (educational) [DEPRECATED],16,169,11
+scrapy 进阶与实战,45,4,28
+全球最大成人网站PornHub爬虫 （Scrapy、MongoDB）,304,96,15
+Scrapy + Puppeteer,109,8,28
+新浪微博爬虫（Scrapy、Redis）,32,252,15
+reborn of,285,21,73
+批量抓取AV磁链或封面的苦劳力,898,49,205
+,283,10,36
+Scrapy Extension for monitoring spiders execution.,422,73,81
+用scrapy写的京东爬虫,411,27,319
+admin ui for scrapy/open source scrapinghub,26,108,498
+Scrapy middleware to handle javascript pages using selenium,750,19,251
+HTTP API for Scrapy spiders,747,46,154
+Scrapy Book Code,447,34,200
+python-scrapy demo,796,69,327
+This Scrapy project uses Redis and Kafka to create a distributed on demand scraping cluster.,11,108,316
+Scrapy Training companion code,167,119,46
+scrapy中文翻译文档,11,99,415
+拼多多爬虫，抓取拼多多热销商品信息和评论,132,6,53
+scrapy爬取知乎用户数据,149,21,76
+A dynamic configurable news crawler based Scrapy,165,14,76
+在scrapyd基础上新增权限验证、爬虫运行信息统计、界面重构、，并增加排序、筛选过滤等多个API,111,8,20
+all kinds of scrapy demo,147,9,55
+Set up free and scalable Scrapyd cluster for distributed web-crawling with just a few clicks. DEMO,116,6,90
+"Collection of Scrapy utilities (extensions, middlewares, pipelines, etc)",27,94,79
+,52,210,932
+scrapy爬虫框架模板，将数据保存到Mysql数据库或者文件中。,191,17,106
+Scrapy Middleware to set a random User-Agent for every Request.,189,9,47
+Scrapy 爬虫框架教程源码,91,6,45
+Scrapy spider middleware to ignore requests to pages containing items seen in previous crawls,248,14,44
+爬虫,19,2,36
+,71,6,47
+Scrapyard For QB-Core,14,4,117
+Useful test spiders for Scrapy,179,133,84
+,146,24,65
+,13,52,481
+Creating Scrapy scrapers via the Django admin interface,11,75,314
+"Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js",28,122,565
+Possibly the best practice of Scrapy,779,36,144
+Scrapy Splash on Taobao Product,30,3,33
+scrapy-monitor，实现爬虫可视化，监控实时状态,102,8,35
+an awesome public proxy server crawler based on scrapy framework,93,10,27
+Scrapping data from Real Estate site,88,12,48
+基于Scrapy的www.mzitu.com的全站图片下载脚本,70,6,44
+python scrapy 企业级分布式爬虫开发架构模板,85,5,58
+用scrapy采集cnblogs列表页爬虫,267,31,186
+TweetScraper is a simple crawler/spider for Twitter Search without using API,873,38,298
+"Collection of python scripts I have created to crawl various websites, mostly for lead generation projects to match keywords and collect email addresses and post URLs",107,14,39
+A RabbitMQ Scheduler for Scrapy,76,9,45
+Using Scrapy to get Linkedin's person public profile.,27,2,74
+Scrapy extension to control spiders using JSON-RPC,292,25,75
+,95,15,121
+The scrapy.org website,47,15,153
+Random User-Agent middleware based on fake-useragent,611,17,90
+Scrapy examples crawling Craigslist,192,18,87
+Scrapy Selenium on Taobao Product,79,6,55
+基于Redis的Bloomfilter去重，并将其扩展到Scrapy框架。,340,19,146
+"Scrapy spiders of major websites. Google Play Store, Facebook, Instagram, Ebay, YTS Movies, Amazon",255,34,123
+This repository store some example to learn scrapy better,173,17,126
+Scrapy Redis Bloom Filter,161,2,50
+Scrapy extension to write scraped items using Django models,487,33,86
+This is a sample Scrapy project for educational purposes,12,70,717
+MongoDB pipeline for Scrapy. This module supports both MongoDB in standalone setups and replica sets. scrapy-mongodb will insert the items to MongoDB as soon as your spider finds data to extract.,348,25,102
+Scrapy Tutorial,43,3,44
+WEIBO_SCRAPY is a Multi-Threading SINA WEIBO data extraction Framework in Python.,154,27,81
+Scrapy Universal Spider,53,2,41
+SCRAPY爬虫实验，主要是一些简单的栗子，让你快速了解scrapy玩法！,130,7,100
+This is a sina weibo spider built by scrapy [微博爬虫/持续维护],26,62,674
+scrapy examples for crawling zhihu and github,217,26,109
+Weibo Spider Using Scrapy,134,6,91
+A Scrapy crawler for,23,3,832
+A scrapy pipeline which send items to Elastic Search server,94,8,116
+"A curated list of awesome packages, articles, and other cool resources from the Scrapy community.",432,20,59
+可视化爬虫自动采集平台,142,8,70
