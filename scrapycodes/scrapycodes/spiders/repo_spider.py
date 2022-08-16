@@ -20,12 +20,3 @@ class RepoSpider(scrapy.Spider):
             'watching': ''.join(filter(str.isdecimal, response.css('a.Link--muted strong')[1].get())),
             'forks': ''.join(filter(str.isdecimal, response.css('a.Link--muted strong')[2].get())),
         }
-'''
-
-response.css('a.v-align-middle::attr(href)').get()
-
-response.css('p.f4::text').get().strip()#about
-response.xpath('//*[@id="repo-content-pjax-container"]/div/div/div[3]/div[2]/div/div[1]/div/div[2]/a/strong').get()[8:9]#stars
-response.xpath('//*[@id="repo-content-pjax-container"]/div/div/div[3]/div[2]/div/div[1]/div/div[3]/a/strong').get()[8:9]#Watchers
-            'stars': response.xpath('//*[@id="repo-content-pjax-container"]/div/div/div[3]/div[2]/div/div[1]/div/div[2]/a/strong').get()[8:9],
-            'watching': response.xpath('//*[@id="repo-content-pjax-container"]/div/div/div[3]/div[2]/div/div[1]/div/div[3]/a/strong').get()[8:9]'''
